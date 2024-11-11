@@ -7,3 +7,6 @@ PowerShell 5 &amp; 7 script for running Minecraft JE server with optimised argum
 
 ### If you want to run script in PowerShell 7, run start_ps7
 ### If you have PowerShell 5 don't know what is your version, run start_ps5(default)
+
+
+### If you want to improve scripts, create Pull request) 
